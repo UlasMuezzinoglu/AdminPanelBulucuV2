@@ -1,0 +1,477 @@
+admin.php
+admin / Admin.php
+admin.html
+index.php
+login.php
+login.html
+yönetici
+yönetici
+cpanel
+wp-login.php
+yönetici
+yöneticiler
+admin.asp
+login.asp
+adm /
+admin /
+admin / account.html
+admin / login.html
+admin / login.htm
+admin / controlpanel.html
+admin / controlpanel.htm
+admin / adminLogin.html
+admin / adminLogin.htm
+admin.htm
+admin.html
+adminitem /
+adminitems /
+yönetici /
+yönetici / oturum açma.% EXT%
+yönetici.% EXT%
+yönetim /
+yönetim.% EXT%
+adminGiriş /
+adminlogin.% EXT%
+admin_area / admin.% EXT%
+admin_area /
+admin_area / login.% EXT%
+yönetici/
+süper kullanıcı /
+süper kullanıcı.% EXT%
+Giriş/
+erişim.% EXT%
+sysadm /
+sysadm.% EXT%
+Süpermen/
+danışman /
+panel.% EXT%
+kontrol/
+kontrol.% EXT%
+üye /
+üye.% EXT%
+üyeler/
+kullanıcı /
+kullanıcı.% EXT%
+cp /
+uvpanel /
+yönet /
+yönet.% EXT%
+yönetimi /
+yönetim.% EXT%
+oturum aç/
+oturum açın.% EXT%
+oturum aç/
+oturum açın.% EXT%
+oturum aç/
+log_in.% EXT%
+oturum aç/
+sign_in.% EXT%
+oturum aç/
+oturum açın.% EXT%
+kullanıcılar/
+kullanıcılar.% EXT%
+hesaplar /
+hesaplar.% EXT%
+bb-admin / login.% EXT%
+bb-admin / admin.% EXT%
+bb-admin / admin.html
+yönetici / hesap.% EXT%
+relogin.htm
+relogin.html
+kontrol edin.% EXT%
+relogin.% EXT%
+blog / wp-login.% EXT%
+kullanıcı / yönetici.% EXT%
+kullanıcılar / yönetici.% EXT%
+kayıt /
+processlogin.% EXT%
+checklogin.% EXT%
+checkuser.% EXT%
+checkadmin.% EXT%
+isadmin.% EXT%
+kimlik doğrulaması.% EXT%
+kimlik doğrulama.% EXT%
+kimlik doğrulama% EXT%
+authuser.% EXT%
+authadmin.% EXT%
+cp.% EXT%
+modelsearch / login.% EXT%
+moderatör.% EXT%
+moderatör /
+Kontrol Paneli/
+kontrol paneli.% EXT%
+admincontrol.% EXT%
+adminpanel.% EXT%
+fileadmin /
+fileadmin.% EXT%
+sysadmin.% EXT%
+admin1.% EXT%
+admin1.html
+admin1.htm
+admin2.% EXT%
+admin2.html
+yonetim.% EXT%
+yonetim.html
+yonetici.% EXT%
+yonetici.html
+phpmyadmin /
+myadmin /
+ur-admin.% EXT%
+ur-admin /
+Sunucu.% EXT%
+Sunucu /
+wp-admin /
+administr8.% EXT%
+administr8 /
+webadmin /
+webadmin.% EXT%
+administratie /
+yöneticiler /
+yöneticiler.% EXT%
+administrivia /
+Veritabanı yönetimi/
+useradmin /
+sysadmins /
+sysadmins /
+admin1 /
+sistem Yönetimi/
+yöneticiler /
+pgadmin /
+directadmin /
+staradmin /
+Sunucu Yöneticisi /
+SysAdmin /
+yönetmek /
+LiveUser_Admin /
+sys-admin /
+typo3 /
+panel/
+cpanel /
+cpanel_file /
+platz_login /
+rcLogin /
+blogindex /
+formlar /
+otomatik giriş/
+manuallogin /
+simpleLogin /
+loginflat /
+utility_login /
+showlogin /
+memlogin /
+giriş-yönlendirme /
+alt giriş /
+wp-login /
+giriş1 /
+dir-login /
+login_db /
+xlogin /
+smblogin /
+müşteri girişi/
+Kullanıcı Girişi/
+giriş-bize /
+acct_login /
+bigadmin /
+proje yöneticileri /
+phppgadmin /
+pureadmin /
+sql-admin /
+radmind /
+openvpnadmin /
+wizmysqladmin /
+vadmind /
+ezsqliteadmin /
+hpwebjetadmin /
+newsadmin /
+adminpro /
+Lotus_Domino_Admin /
+bbadmin /
+vmailadmin /
+Indy_admin /
+ccp14admin /
+irc-macadmin /
+banneradmin /
+sshadmin /
+phpldapadmin /
+macadmin /
+yönetici hesapları /
+admin4_account /
+admin4_colon /
+radmind-1 /
+Süper Yönetici /
+Yönetici araçları/
+cmsadmin /
+SysAdmin2 /
+globes_admin /
+cadmins /
+phpSQLiteAdmin /
+navSiteAdmin /
+server_admin_small /
+logo_sysadmin /
+güç kullanıcısı/
+sistem Yönetimi/
+ss_vms_admin_sm /
+bb-admin /
+panel yönetimi /
+instadmin /
+memberadmin /
+adminlogin /
+adm.% EXT%
+admin_login.% EXT%
+panel yönetimi / login.% EXT%
+sayfalar / admin / admin-login.% EXT%
+sayfalar / admin /
+acceso.% EXT%
+admincp / login.% EXT%
+admincp /
+adminarea /
+admincontrol /
+affiliate.% EXT%
+adm_auth.% EXT%
+memberadmin.% EXT%
+adminlogin.% EXT%
+modüller / admin /
+yöneticiler.% EXT%
+site yöneticisi/
+siteadmin.% EXT%
+adminsite /
+kpanel /
+vorod /
+vorod.% EXT%
+vorud /
+vorud.% EXT%
+Admin Paneli/
+PSUser /
+güvenli/
+webmaster /
+web yöneticisi.% EXT%
+otomatik oturum açma.% EXT%
+userlogin.% EXT%
+admin_area.% EXT%
+cmsadmin.% EXT%
+güvenlik/
+usr /
+kök/
+gizli/
+yönetici / giriş.% EXT%
+admin / adminLogin.% EXT%
+moderator.php
+moderator.html
+moderatör / giriş.% EXT%
+moderatör / yönetici.% EXT%
+yonetici.% EXT%
+0admin /
+0manager /
+aadmin /
+cgi-bin / login% EXT%
+giriş1% EXT%
+login_admin /
+login_admin% EXT%
+login_out /
+login_out% EXT%
+login_user% EXT%
+sisteme giriş hatası/
+loginok /
+oturum açma /
+oturum açma /
+oturum açma süper% EXT%
+giriş% EXT%
+çıkış Yap/
+çıkış% EXT%
+sırlar /
+super1 /
+super1% EXT%
+super_index% EXT%
+super_login% EXT%
+süper yönetici% EXT%
+süpermen% EXT%
+süper kullanıcı% EXT%
+denetlemek /
+denetleme / Oturum açma% EXT%
+süper% EXT%
+admin1.php
+admin1.html
+admin2.php
+admin2.html
+yonetim.php
+yonetim.html
+yonetici.php
+yonetici.html
+ccms /
+ccms / login.php
+ccms / index.php
+bakım/
+webmaster /
+adm /
+yapılandırma /
+yapılandır/
+websvn /
+admin /
+admin / account.php
+admin / account.html
+admin / index.php
+admin / index.html
+admin / login.php
+admin / login.html
+admin / home.php
+admin / controlpanel.html
+admin / controlpanel.php
+admin.php
+admin.html
+admin / cp.php
+admin / cp.html
+cp.php
+cp.html
+yönetici /
+yönetici / index.html
+yönetici / index.php
+yönetici / login.html
+yönetici / login.php
+yönetici / account.html
+yönetici / account.php
+admin.php
+admin.html
+login.php
+login.html
+modelsearch / login.php
+moderator.php
+moderator.html
+moderatör / login.php
+moderatör / login.html
+moderatör / admin.php
+moderatör / admin.html
+moderatör /
+account.php
+account.html
+Kontrol Paneli/
+controlpanel.php
+controlpanel.html
+admincontrol.php
+admincontrol.html
+adminpanel.php
+adminpanel.html
+admin1.asp
+admin2.asp
+yonetim.asp
+yonetici.asp
+admin / account.asp
+admin / index.asp
+admin / login.asp
+admin / home.asp
+admin / controlpanel.asp
+admin.asp
+admin / cp.asp
+cp.asp
+yönetici / index.asp
+yönetici / login.asp
+yönetici / account.asp
+admin.asp
+login.asp
+modelsearch / login.asp
+moderatör.asp
+moderatör / login.asp
+moderatör / admin.asp
+account.asp
+controlpanel.asp
+admincontrol.asp
+adminpanel.asp
+fileadmin /
+fileadmin.php
+fileadmin.asp
+fileadmin.html
+yönetim /
+management.php
+management.html
+sysadmin.php
+sysadmin.html
+phpmyadmin /
+myadmin /
+sysadmin.asp
+sysadmin /
+ur-admin.asp
+ur-admin.php
+ur-admin.html
+ur-admin /
+Server.php
+Server.html
+Server.asp
+Sunucu /
+wp-admin /
+administr8.php
+administr8.html
+administr8 /
+administr8.asp
+webadmin /
+webadmin.php
+webadmin.asp
+webadmin.html
+administratie /
+yöneticiler /
+admins.php
+admins.asp
+admins.html
+administrivia /
+Veritabanı yönetimi/
+WebAdmin /
+useradmin /
+sysadmins /
+admin1 /
+sistem Yönetimi/
+yöneticiler /
+pgadmin /
+directadmin /
+staradmin /
+Sunucu Yöneticisi /
+SysAdmin /
+yönetmek /
+LiveUser_Admin /
+sys-admin /
+typo3 /
+panel/
+cpanel /
+cPanel /
+cpanel_file /
+platz_login /
+rcLogin /
+blogindex /
+formlar /
+otomatik giriş/
+support_login /
+meta_login /
+manuallogin /
+simpleLogin /
+loginflat /
+utility_login /
+showlogin /
+memlogin /
+üyeler/
+giriş-yönlendirme /
+alt giriş /
+wp-login /
+giriş1 /
+dir-login /
+login_db /
+xlogin /
+smblogin /
+müşteri girişi/
+Kullanıcı Girişi/
+giriş-bize /
+acct_login /
+admin_area /
+bigadmin /
+proje yöneticileri /
+phppgadmin /
+pureadmin /
+sql-admin /
+radmind /
+openvpnadmin /
+wizmysqladmin /
+vadmind /
+ezsqliteadmin /
+hpwebjetadmin/
+newsadmin/
+adminpro/
+Lotus_Domino_Admin/
+bbadmin/
+vmailadmin/
+Indy_admin/
